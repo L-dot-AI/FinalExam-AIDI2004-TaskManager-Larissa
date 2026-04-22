@@ -1,0 +1,7 @@
+"# Final Exam AIDI 2004 - Larissa Statton-Persad" 
+"" 
+"class TaskManager:" 
+"    def addTask(self, title, priority):" 
+"        pass" 
+"    def deleteTask(self, task_id):" 
+"        pass" 
