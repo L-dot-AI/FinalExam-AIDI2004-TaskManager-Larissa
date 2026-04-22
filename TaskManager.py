@@ -5,3 +5,6 @@
 "        pass" 
 "    def deleteTask(self, task_id):" 
 "        pass" 
+"    # Deletes a task by its ID" 
+"    def deleteTask(self, task_id):" 
+"        return task_id" 
